@@ -11,3 +11,5 @@
 - [ ] Fraud Reports
 - [ ] Fayda Intergration
 - [ ] API      
+---
+### Architecture
